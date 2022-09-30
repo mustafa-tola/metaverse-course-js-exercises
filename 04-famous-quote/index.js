@@ -1,0 +1,1 @@
+console.log('Albert Einstein once said, "Weak people revenge. Strong people forgive. Intelligent people ignore"')
